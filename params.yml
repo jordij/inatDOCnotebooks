@@ -1,0 +1,9 @@
+api:
+  taxon_id:  47429
+  place_id: 6803
+  quality_grade: research
+  per_page: 200
+  page: 1
+  geo: true
+join:
+  url: https://services1.arcgis.com/3JjYDyG3oajxU6HO/arcgis/rest/services/DOC_Marine_Reserves/FeatureServer/0/query?outFields=*&where=1%3D1&f=geojson
