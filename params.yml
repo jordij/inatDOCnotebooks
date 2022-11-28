@@ -1,4 +1,5 @@
 api:
+  url: https://api.inaturalist.org/v1/observations
   taxon_id:  47429
   place_id: 6803
   quality_grade: research
